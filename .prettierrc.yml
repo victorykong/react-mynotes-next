@@ -1,0 +1,5 @@
+trailingComma: es5
+jsxBracketSameLine: false
+bracketSpacing: true
+semi: false
+singleQuote: true
